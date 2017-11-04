@@ -1,5 +1,5 @@
-## This file defines two functions, one that creat a special matrix object
-## that can cahe its inverse and the other is a function that is called on it
+## This file defines two functions, one that creates a special matrix object
+## that can cahe its inverse and the other is the function that should called on it
 ## to solve for the inverse.
 
 ## func makeCacheMatrix creates a special matrix object that lets you set its inverse
